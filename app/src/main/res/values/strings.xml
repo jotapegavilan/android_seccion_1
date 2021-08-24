@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">APP DEMO</string>
+    <string name="btn_superior">TOAST</string>
+    <string name="btn_inferior">CONTADOR</string>
+</resources>
